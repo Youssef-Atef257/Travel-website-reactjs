@@ -1,0 +1,1 @@
+A modern travel app built with Next.js,TypeScript and React, designed to help users navigate easily and explore new destinations. The app features offline maps, real-time travel guidance, and an intuitive UI for a seamless travel experience.
